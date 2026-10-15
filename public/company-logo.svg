@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 400" fill="none">
+  <path d="M38 52Q180 1 322 52C341 105 350 163 350 222c0 62-9 112-29 146-44 18-91 27-141 27s-97-9-141-27C19 334 10 284 10 222c0-59 9-117 28-170Z" stroke="#1268B3" stroke-width="7"/>
+  <path d="M52 67Q180 21 308 67c17 48 25 101 25 155 0 56-8 101-25 132-40 15-83 23-128 23s-88-8-128-23c-17-31-25-76-25-132 0-54 8-107 25-155Z" stroke="#1268B3" stroke-width="5"/>
+  <g font-family="Georgia, 'Times New Roman', serif" font-weight="700" stroke="#073B70" stroke-width="2.5" paint-order="stroke fill">
+    <text x="57" y="248" font-size="206" fill="#1268B3">L</text>
+    <text x="119" y="207" font-size="123" fill="#1268B3">S</text>
+    <text x="152" y="278" font-size="148" fill="#1268B3">T</text>
+    <text x="192" y="353" font-size="151" fill="#1268B3">C</text>
+  </g>
+</svg>
